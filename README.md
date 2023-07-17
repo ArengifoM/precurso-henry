@@ -1,2 +1,1 @@
-# precurso-henry-2
-este repositorio es de puerba del mpdulo de github
+este es una prueba de cambio de datos en el repositorio para pasarlo de github a mi computadora otra vez
